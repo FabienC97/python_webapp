@@ -3,6 +3,8 @@ This system use cosine similarity to get the closest movies to the movie entered
 
 The recommendations are based on a 5000 movies dataset, available here :
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+You need to download the file tmbd_5000_credits.csv due to his size
+
 It was generated based on The Movie Database website, we kindly 
 we would like to thank the team for providing us with this aggregated data and an API that enables us to retrieve other data, such as the film image, this has enabled us to achieve better visual results.
 
